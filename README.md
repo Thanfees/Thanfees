@@ -1,5 +1,30 @@
 # 💫 About Me:
-i am currently pursuing BSc (Hons) cyber Security Special<br>i like to collaborate open source projects <br>interesting in Purple teaming
+I'm a Cybersecurity Enthusiast & Software Engineer passionate about offensive security, penetration testing, and malware analysis. Currently pursuing a BSc (Hons) in Information Technology, specializing in Cyber Security at SLIIT.
+
+🔍 What I Do:
+Offensive Security – Penetration Testing, Vulnerability Assessments, Reverse Engineering
+
+Defensive Security – Threat Monitoring, Incident Response, SIEM Solutions
+
+Software Development – Android Development, Web Security, System Hardening
+
+Bug Bounty Hunter – Actively hunting vulnerabilities on HackerOne & Bugcrowd
+
+🛠️ Tech Stack:
+Languages – Python, Bash, C
+
+Tools – Metasploit, Burp Suite, Nmap, Wireshark, APatch, IDA Pro
+
+Security Areas – Lockdown Mode Apps, Root Exploitation, Secure Coding
+
+🚀 Projects & Interests:
+Building an Android Lockdown Mode App with root permissions
+
+Developing a custom e-commerce platform for bulk T-shirt orders
+
+Exploring red team strategies and security automation
+
+💡 Always eager to learn, experiment, and contribute to the cybersecurity & software communities. Open to collaborations and internship opportunities!
 
 
 ## 🌐 Socials:
