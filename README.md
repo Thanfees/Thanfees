@@ -11,7 +11,7 @@ Software Development – Android Development, Web Security, System Hardening
 Bug Bounty Hunter – Actively hunting vulnerabilities on HackerOne & Bugcrowd
 
 🛠️ Tech Stack:
-Languages – Python, Bash, C
+Languages – Python, Bash, C/C++
 
 Tools – Metasploit, Burp Suite, Nmap, Wireshark, APatch, IDA Pro
 
